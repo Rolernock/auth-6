@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="125px" height="68px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 125 68.04"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="666" d="M-1.49874 0l274.653 715.965 104.159 0 291.487 -715.965 -107.827 0 -82.8298 216.988 -301.484 0 -77.6634 -216.988 -100.495 0zm205.988 293.985l243.99 0 -74.6628 198.492c-22.4994,60.3304 -39.5003,110.16 -51.3318,149.493 -9.8332,-46.665 -22.999,-92.4954 -39.4973,-137.826l-78.498 -210.159z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:white}
+    .fnt0 {font-weight:normal;font-size:66.12px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1650606363488">
+   <path class="fil0" d="M42.38 27.61c0,-11.29 9.15,-20.45 20.44,-20.45 11.29,0 20.44,9.16 20.44,20.45 0,4.69 -1.58,9.01 -4.23,12.46l2.01 3.33c3.95,-4.39 6.36,-10.21 6.36,-16.58 0,-13.7 -11.11,-24.81 -24.81,-24.81 -13.71,0 -24.82,11.11 -24.82,24.81 0,5.57 1.84,10.7 4.93,14.84l2.37 -3.91c-1.71,-2.99 -2.69,-6.45 -2.69,-10.14z"/>
+   <text x="39.75" y="63.52"  class="fil0 fnt0">A</text>
+   <g>
+    <rect class="fil0" x="51.08" y="58.32" width="22.02" height="7.45" rx="1.92" ry="1.92"/>
+    <path class="fil0" d="M57.45 58.75c0.02,-2.28 1.89,-4.14 4.17,-4.14l1.72 0c2.28,0 4.15,1.86 4.17,4.14l1.92 0c-0.03,-3.15 -2.62,-5.72 -5.77,-5.72l-2.38 0c-3.16,0 -5.74,2.57 -5.77,5.72l1.94 0z"/>
+   </g>
+  </g>
+ </g>
+</svg>
